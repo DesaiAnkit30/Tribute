@@ -1,0 +1,62 @@
+.bg-1 { 
+	    background-color: ;
+	    color: #000000;
+	    background-image: url('');
+		}
+	   .bg-2 { 
+	    background-color:#333333;
+	    color: #ffffff;
+	    font-size: 18px;
+	    font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+		}
+	   .bg-3 { 
+	    background-color: #ffffff;
+	    color: #555555;
+	  	}
+	   .bg-4{
+	  	background-color: #2e2e2e;
+	    color: #ffffff;
+	    }
+	   .bg-5{
+	    background-color: #2e2e2e;
+		margin-top: 20px;
+		}
+	   .container-fluid {
+	    padding-top: 10px;
+	    padding-bottom: 10px;
+	  	}
+	   .navbar-brand{
+	   	font-size: 22px;
+	  	color: #ffffff;
+	    }
+	   a{
+	    font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+	  	}
+	   #b1{
+	  	font-size: 40px;
+	  	}
+	   #p2{
+	  	font-family: 'times new roman';
+	  	font-size: 23px;
+	  	text-align: left;
+	  	}
+	   .parallax {
+	    /* The image used */
+	    background-image: url("images/1234.jpg");
+
+	    /* Set a specific height */
+	    min-height: 500px; 
+
+	    /* Create the parallax scrolling effect */
+	    background-attachment: fixed;
+	    background-position: center;
+	    background-repeat: no-repeat;
+	    background-size: cover;
+		}
+	   #sub_title{
+		font-size: 30px;
+		}
+	   .footer{
+		background-color: #2e2e2e;
+		margin-top: 10px;
+		}
